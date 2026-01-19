@@ -1,0 +1,17 @@
+System Information Report
+-------------------------
+Date: Mon, Jan 19, 2026  1:56:28 PM
+
+Hostname: GREG-BLADE
+User: BLADE
+
+Uptime:
+
+Operating System:
+MINGW64_NT-10.0-26220 GREG-BLADE 3.6.3-086201ea.x86_64 2025-06-05 13:51 UTC x86_64 Msys
+
+Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  476G  378G   98G  80% /
+
+Memory Usage:
